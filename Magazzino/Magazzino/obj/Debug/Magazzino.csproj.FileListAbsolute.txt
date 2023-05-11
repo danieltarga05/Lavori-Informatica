@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\bin\Debug\Magazzino.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\bin\Debug\Magazzino.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\bin\Debug\Magazzino.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\obj\Debug\Magazzino.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\obj\Debug\Magazzino.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\obj\Debug\Magazzino.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\obj\Debug\Magazzino.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Magazzino\Magazzino\obj\Debug\Magazzino.pdb

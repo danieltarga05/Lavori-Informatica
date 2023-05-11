@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\bin\Debug\tombola2.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\bin\Debug\tombola2.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\bin\Debug\tombola2.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\obj\Debug\tombola2.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\obj\Debug\tombola2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\obj\Debug\tombola2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\obj\Debug\tombola2.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\tombola2\obj\Debug\tombola2.pdb

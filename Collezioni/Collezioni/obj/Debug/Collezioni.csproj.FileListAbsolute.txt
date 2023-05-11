@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\bin\Debug\Collezioni.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\bin\Debug\Collezioni.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\bin\Debug\Collezioni.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\obj\Debug\Collezioni.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\obj\Debug\Collezioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\obj\Debug\Collezioni.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\obj\Debug\Collezioni.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Collezioni\Collezioni\obj\Debug\Collezioni.pdb

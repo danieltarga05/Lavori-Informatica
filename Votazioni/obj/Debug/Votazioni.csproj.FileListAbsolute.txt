@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\bin\Debug\Votazioni.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\bin\Debug\Votazioni.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\bin\Debug\Votazioni.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\obj\Debug\Votazioni.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\obj\Debug\Votazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\obj\Debug\Votazioni.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\obj\Debug\Votazioni.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Votazioni\obj\Debug\Votazioni.pdb

@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\bin\Debug\SelectionSortString.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\bin\Debug\SelectionSortString.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\bin\Debug\SelectionSortString.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\obj\Debug\SelectionSortString.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\obj\Debug\SelectionSortString.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\obj\Debug\SelectionSortString.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\obj\Debug\SelectionSortString.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\SelectionSortString\obj\Debug\SelectionSortString.pdb

@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\bin\Debug\stringaarray.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\bin\Debug\stringaarray.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\bin\Debug\stringaarray.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\obj\Debug\stringaarray.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\obj\Debug\stringaarray.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\obj\Debug\stringaarray.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\obj\Debug\stringaarray.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\stringaarray\obj\Debug\stringaarray.pdb

@@ -1,0 +1,17 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\bin\Debug\net6.0-windows\Studente.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\bin\Debug\net6.0-windows\Studente.deps.json
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\bin\Debug\net6.0-windows\Studente.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\bin\Debug\net6.0-windows\Studente.dll
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\bin\Debug\net6.0-windows\Studente.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.Form1.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.dll
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\refint\Studente.dll
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\Studente.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Studente\Studente\obj\Debug\net6.0-windows\ref\Studente.dll

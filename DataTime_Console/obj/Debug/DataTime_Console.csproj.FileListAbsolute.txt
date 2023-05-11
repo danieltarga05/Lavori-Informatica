@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\bin\Debug\DataTime_Console.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\bin\Debug\DataTime_Console.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\bin\Debug\DataTime_Console.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\obj\Debug\DataTime_Console.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\obj\Debug\DataTime_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\obj\Debug\DataTime_Console.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\obj\Debug\DataTime_Console.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\DataTime_Console\obj\Debug\DataTime_Console.pdb

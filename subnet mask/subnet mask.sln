@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subnet mask", "subnet mask\subnet mask.csproj", "{C66E1443-60AC-441B-B830-2BBFAB12C728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66E1443-60AC-441B-B830-2BBFAB12C728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66E1443-60AC-441B-B830-2BBFAB12C728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66E1443-60AC-441B-B830-2BBFAB12C728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66E1443-60AC-441B-B830-2BBFAB12C728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E2BCD8-F602-4A3D-83F5-BE2E85908655}
+	EndGlobalSection
+EndGlobal

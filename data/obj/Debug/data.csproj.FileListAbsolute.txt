@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\bin\Debug\data.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\bin\Debug\data.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\bin\Debug\data.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\obj\Debug\data.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\obj\Debug\data.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\data\obj\Debug\data.pdb

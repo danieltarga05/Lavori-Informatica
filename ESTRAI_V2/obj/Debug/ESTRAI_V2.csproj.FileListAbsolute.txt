@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\bin\Debug\ESTRAI_V2.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\bin\Debug\ESTRAI_V2.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\bin\Debug\ESTRAI_V2.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.Form1.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.Modale.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\ESTRAI_V2\obj\Debug\ESTRAI_V2.pdb

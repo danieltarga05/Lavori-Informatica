@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd8c3b42-3dd8-42b1-84d2-3d25d9c08793": {
+      "ProjectGuid": "fd8c3b42-3dd8-42b1-84d2-3d25d9c08793",
+      "DisplayName": "Menù_grafico",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

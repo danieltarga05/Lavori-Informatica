@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "849b9a27-e21a-412d-965b-b2452f417082": {
+      "ProjectGuid": "849b9a27-e21a-412d-965b-b2452f417082",
+      "DisplayName": "bubble e selection sort con menù",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

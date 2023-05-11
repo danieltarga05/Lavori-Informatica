@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\bin\Debug\Criptare.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\bin\Debug\Criptare.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\bin\Debug\Criptare.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\obj\Debug\Criptare.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\obj\Debug\Criptare.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\obj\Debug\Criptare.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\obj\Debug\Criptare.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Criptare\obj\Debug\Criptare.pdb

@@ -1,0 +1,11 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\bin\Debug\Progetto.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\bin\Debug\Progetto.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\bin\Debug\Progetto.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.Form1.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Progetto\obj\Debug\Progetto.pdb

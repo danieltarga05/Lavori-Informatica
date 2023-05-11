@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\obj\Debug\numeri crescenti.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\obj\Debug\numeri crescenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\obj\Debug\numeri crescenti.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\bin\Debug\numeri crescenti.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\bin\Debug\numeri crescenti.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\bin\Debug\numeri crescenti.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\obj\Debug\numeri crescenti.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\numeri crescenti\obj\Debug\numeri crescenti.pdb

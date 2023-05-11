@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\bin\Debug\matita.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\bin\Debug\matita.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\bin\Debug\matita.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\obj\Debug\matita.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\obj\Debug\matita.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\obj\Debug\matita.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\obj\Debug\matita.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\matita\obj\Debug\matita.pdb

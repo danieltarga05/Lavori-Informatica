@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\bin\Debug\menu_tombola_cartella.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\bin\Debug\menu_tombola_cartella.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\bin\Debug\menu_tombola_cartella.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\obj\Debug\menu_tombola_cartella.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\obj\Debug\menu_tombola_cartella.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\obj\Debug\menu_tombola_cartella.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\obj\Debug\menu_tombola_cartella.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\menu_tombola_cartella\obj\Debug\menu_tombola_cartella.pdb

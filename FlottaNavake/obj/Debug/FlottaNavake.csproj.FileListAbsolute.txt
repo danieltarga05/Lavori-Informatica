@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\bin\Debug\FlottaNavake.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\bin\Debug\FlottaNavake.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\bin\Debug\FlottaNavake.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.Form1.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.InserimentoNave.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.InsFlotta.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\FlottaNavake\obj\Debug\FlottaNavake.ModStato.resources

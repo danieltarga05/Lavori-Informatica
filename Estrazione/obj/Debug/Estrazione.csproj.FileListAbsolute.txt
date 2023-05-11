@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\bin\Debug\Estrazione.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\bin\Debug\Estrazione.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\bin\Debug\Estrazione.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\obj\Debug\Estrazione.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\obj\Debug\Estrazione.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\obj\Debug\Estrazione.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\obj\Debug\Estrazione.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Estrazione\obj\Debug\Estrazione.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\bin\Debug\Estrazione.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\bin\Debug\Estrazione.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\bin\Debug\Estrazione.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\obj\Debug\Estrazione.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\obj\Debug\Estrazione.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\obj\Debug\Estrazione.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\obj\Debug\Estrazione.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\Estrazione\obj\Debug\Estrazione.pdb

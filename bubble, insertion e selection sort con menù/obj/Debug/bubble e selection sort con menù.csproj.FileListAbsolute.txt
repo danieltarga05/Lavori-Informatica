@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\bin\Debug\bubble e selection sort con menù.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\bin\Debug\bubble e selection sort con menù.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\bin\Debug\bubble e selection sort con menù.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\obj\Debug\bubble e selection sort con menù.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\obj\Debug\bubble e selection sort con menù.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\obj\Debug\bubble e selection sort con menù.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\obj\Debug\bubble e selection sort con menù.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble e selection sort con menù\obj\Debug\bubble e selection sort con menù.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\bin\Debug\bubble e selection sort con menù.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\bin\Debug\bubble e selection sort con menù.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\bin\Debug\bubble e selection sort con menù.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\obj\Debug\bubble e selection sort con menù.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\obj\Debug\bubble e selection sort con menù.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\obj\Debug\bubble e selection sort con menù.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\obj\Debug\bubble e selection sort con menù.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\bubble, insertion e selection sort con menù\obj\Debug\bubble e selection sort con menù.pdb

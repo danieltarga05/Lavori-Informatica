@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\bin\Debug\Menù_grafico.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\bin\Debug\Menù_grafico.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\bin\Debug\Menù_grafico.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\obj\Debug\Menù_grafico.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\obj\Debug\Menù_grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\obj\Debug\Menù_grafico.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\obj\Debug\Menù_grafico.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Menù_grafico\obj\Debug\Menù_grafico.pdb

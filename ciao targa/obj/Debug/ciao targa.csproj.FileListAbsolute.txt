@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\bin\Debug\ciao targa.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\bin\Debug\ciao targa.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\bin\Debug\ciao targa.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\obj\Debug\ciao targa.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\obj\Debug\ciao targa.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\obj\Debug\ciao targa.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\obj\Debug\ciao targa.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ciao targa\obj\Debug\ciao targa.pdb

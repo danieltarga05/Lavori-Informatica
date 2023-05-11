@@ -1,0 +1,31 @@
+C:\Users\Studente\Desktop\Tiro a segno\bin\Debug\Tiro a segno.exe.config
+C:\Users\Studente\Desktop\Tiro a segno\bin\Debug\Tiro a segno.exe
+C:\Users\Studente\Desktop\Tiro a segno\bin\Debug\Tiro a segno.pdb
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro a segno.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro_a_segno.Main.resources
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro_a_segno.Properties.Resources.resources
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro a segno.csproj.GenerateResource.cache
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro a segno.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro a segno.exe
+C:\Users\Studente\Desktop\Tiro a segno\obj\Debug\Tiro a segno.pdb
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\bin\Debug\Tiro a segno.exe.config
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\bin\Debug\Tiro a segno.exe
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\bin\Debug\Tiro a segno.pdb
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro a segno.csproj.AssemblyReference.cache
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro_a_segno.Main.resources
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro_a_segno.Properties.Resources.resources
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro a segno.csproj.GenerateResource.cache
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro a segno.csproj.CoreCompileInputs.cache
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro a segno.exe
+C:\Users\Luca Spoladore\Desktop\Tiro a segno\obj\Debug\Tiro a segno.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\bin\Debug\Tiro a segno.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\bin\Debug\Tiro a segno.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\bin\Debug\Tiro a segno.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro a segno.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro a segno.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro_a_segno.Main.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro_a_segno.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro a segno.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro a segno.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro a segno.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\Tiro a segno\obj\Debug\Tiro a segno.pdb

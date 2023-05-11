@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\bin\Debug\operazioni2.0.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\bin\Debug\operazioni2.0.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\bin\Debug\operazioni2.0.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\obj\Debug\operazioni2.0.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\obj\Debug\operazioni2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\obj\Debug\operazioni2.0.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\obj\Debug\operazioni2.0.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\operazioni2.0\obj\Debug\operazioni2.0.pdb

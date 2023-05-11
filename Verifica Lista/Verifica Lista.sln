@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verifica Lista", "Verifica Lista\Verifica Lista.csproj", "{FD2AF1D7-CC01-46BF-9A65-CDA3C0BAB219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2AF1D7-CC01-46BF-9A65-CDA3C0BAB219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2AF1D7-CC01-46BF-9A65-CDA3C0BAB219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2AF1D7-CC01-46BF-9A65-CDA3C0BAB219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2AF1D7-CC01-46BF-9A65-CDA3C0BAB219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05634F29-3DF1-4884-976C-042A3C449D1A}
+	EndGlobalSection
+EndGlobal

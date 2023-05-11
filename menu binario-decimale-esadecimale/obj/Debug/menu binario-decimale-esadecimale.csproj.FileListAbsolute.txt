@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\bin\Debug\menu binario-decimale-esadecimale.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\bin\Debug\menu binario-decimale-esadecimale.exe
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\bin\Debug\menu binario-decimale-esadecimale.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\obj\Debug\menu binario-decimale-esadecimale.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\obj\Debug\menu binario-decimale-esadecimale.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\obj\Debug\menu binario-decimale-esadecimale.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\obj\Debug\menu binario-decimale-esadecimale.exe
+C:\Users\danie\OneDrive\Desktop\DAN\menu binario-decimale-esadecimale\obj\Debug\menu binario-decimale-esadecimale.pdb

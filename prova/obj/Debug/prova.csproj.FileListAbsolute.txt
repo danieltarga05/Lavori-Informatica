@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\prova\bin\Debug\prova.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\prova\bin\Debug\prova.exe
+C:\Users\danie\OneDrive\Desktop\DAN\prova\bin\Debug\prova.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\prova\obj\Debug\prova.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\prova\obj\Debug\prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\prova\obj\Debug\prova.exe
+C:\Users\danie\OneDrive\Desktop\DAN\prova\obj\Debug\prova.pdb

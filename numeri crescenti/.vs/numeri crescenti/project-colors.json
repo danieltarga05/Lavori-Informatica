@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bd08d69-8f29-4288-bb25-a21ca3d37220": {
+      "ProjectGuid": "5bd08d69-8f29-4288-bb25-a21ca3d37220",
+      "DisplayName": "numeri crescenti",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\obj\Debug\ArrayFind.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\obj\Debug\ArrayFind.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\obj\Debug\ArrayFind.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\bin\Debug\ArrayFind.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\bin\Debug\ArrayFind.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\bin\Debug\ArrayFind.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\obj\Debug\ArrayFind.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ArrayFind\ArrayFind\obj\Debug\ArrayFind.pdb

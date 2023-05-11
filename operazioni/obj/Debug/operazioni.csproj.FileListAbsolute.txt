@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\operazioni\bin\Debug\operazioni.exe.config
+C:\Users\Admin\Desktop\operazioni\bin\Debug\operazioni.exe
+C:\Users\Admin\Desktop\operazioni\bin\Debug\operazioni.pdb
+C:\Users\Admin\Desktop\operazioni\obj\Debug\operazioni.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\operazioni\obj\Debug\operazioni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\operazioni\obj\Debug\operazioni.exe
+C:\Users\Admin\Desktop\operazioni\obj\Debug\operazioni.pdb
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\bin\Debug\operazioni.exe.config
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\bin\Debug\operazioni.exe
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\bin\Debug\operazioni.pdb
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\obj\Debug\operazioni.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\obj\Debug\operazioni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\obj\Debug\operazioni.exe
+C:\Users\Admin\Desktop\DANIEL IIIF\operazioni\obj\Debug\operazioni.pdb

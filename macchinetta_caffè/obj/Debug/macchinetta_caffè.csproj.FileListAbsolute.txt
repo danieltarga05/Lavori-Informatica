@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\bin\Debug\macchinetta_caffè.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\bin\Debug\macchinetta_caffè.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\bin\Debug\macchinetta_caffè.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\obj\Debug\macchinetta_caffè.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\obj\Debug\macchinetta_caffè.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\obj\Debug\macchinetta_caffè.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\obj\Debug\macchinetta_caffè.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\macchinetta_caffè\obj\Debug\macchinetta_caffè.pdb

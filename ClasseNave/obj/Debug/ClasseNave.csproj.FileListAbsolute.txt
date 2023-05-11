@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\bin\Debug\ClasseNave.exe.config
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\bin\Debug\ClasseNave.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\bin\Debug\ClasseNave.pdb
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\obj\Debug\ClasseNave.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\obj\Debug\ClasseNave.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\obj\Debug\ClasseNave.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\obj\Debug\ClasseNave.exe
+C:\Users\danie\OneDrive\Desktop\DAN\Scuola\INFORMATICA\ClasseNave\obj\Debug\ClasseNave.pdb
