@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verifica_Melon", "Verifica_Melon.csproj", "{FE509809-A9B7-49D4-9A6E-1CB5AED31B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE509809-A9B7-49D4-9A6E-1CB5AED31B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE509809-A9B7-49D4-9A6E-1CB5AED31B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE509809-A9B7-49D4-9A6E-1CB5AED31B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE509809-A9B7-49D4-9A6E-1CB5AED31B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233AC855-DAA8-43F1-8332-40B94E7F017E}
+	EndGlobalSection
+EndGlobal
